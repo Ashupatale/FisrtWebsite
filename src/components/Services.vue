@@ -264,6 +264,12 @@ ul {
     min-height: 36rem;
 
 }
+@media (min-width: 768px){
+
+.MainServiceDiv{
+  overflow-x: hidden;
+}
+}
 
 @media (min-width: 993px) and (max-width: 1199px){
   .section-services .single-service{

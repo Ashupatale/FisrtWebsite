@@ -787,6 +787,12 @@ ul {
 .accordion-body {
   margin-bottom: 2%;
 }
+@media (min-width: 768px){
+
+.FaqMainDiv{
+  overflow-x: hidden;
+}
+}
 
 @media (min-width: 769px){
 
