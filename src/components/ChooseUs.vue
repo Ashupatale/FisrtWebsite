@@ -10,7 +10,7 @@
 
         <div class=" secondDiv col-lg-7 col-md-7 col-sm-12">
           <h2 style=" justify-content:start;text-align:start;">
-            WHY CHOOSE LONDON-EAST TRANSPORTATION SERVICES?
+            WHY CHOOSE MINUTEMAN DELIVARY SERVICES?
           </h2>
           <div class="chooseText">
             <p>

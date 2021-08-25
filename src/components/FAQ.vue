@@ -51,7 +51,7 @@
                 >
                   <div class="accordion-body">
                     <strong
-                      >London East Transport Services - Guidance in Supporting
+                      >Minuteman Delivery Services - Guidance in Supporting
                       you through Brexit</strong
                     >
                     <p>
@@ -61,7 +61,7 @@
                     </p>
 
                     <p style="margin-top:2%">
-                      London East Transport and our carrier partners, are well
+                      Minuteman Delivery and our carrier partners, are well
                       prepared to ensure that your shipments can continue to
                       transit smoothly across borders. We have also created a
                       'Supporting you through Brexit' guide to help you to
@@ -221,7 +221,7 @@
                     aria-expanded="false"
                     aria-controls="collapseFive"
                   >
-                    What is London-East Transportation Services' role?
+                    What is Minuteman Delivery Services' role?
                   </button>
                 </h2>
                 <div
@@ -238,7 +238,7 @@
                     </p>
                     <br />
                     <p>
-                      London-East Transportation Services provides dedicated
+                      Minuteman Delivery Service provides dedicated
                       customer support, with our consultants seeking to
                       understand your business better so they can find the right
                       shipping solutions for you, to save you time, effort and
@@ -246,7 +246,7 @@
                     </p>
                     <br />
                     <p>
-                      London-East Transportation Services also handles the
+                      Minuteman Delivery Service also handles the
                       invoicing, collecting all of your bills from all the
                       freight carriers you ship with, to give you a single,
                       consolidated invoice.
@@ -365,7 +365,7 @@
                   aria-expanded="false"
                   aria-controls="collapseTen"
                 >
-                  How quickly can I start shipping through London-East
+                  How quickly can I start shipping through Minuteman Delivery Services
                   Transportation Services?
                 </button>
               </h2>
@@ -377,7 +377,7 @@
               >
                 <div class="accordion-body">
                   <p>
-                    You could start shipping through London-East Transportation
+                    You could start shipping through Minuteman Delivery Services Transportation
                     Services as soon as today. Just contact us and/or complete
                     and return the Account Application Form.
                   </p>
@@ -465,7 +465,7 @@
                   aria-controls="collapseThirteen"
                 >
                   If I want a quote for an international export, do I call
-                  London-East Transportation Services to get the quote?
+                  Minuteman Delivery Service to get the quote?
                 </button>
               </h2>
               <div
@@ -599,12 +599,12 @@
               >
                 <div class="accordion-body">
                   <p>
-                    Absolutely not. Opening a London-East Transportation
+                    Absolutely not. Opening a Minuteman Delivery Services Transportation
                     Services account is at our discretion and there is no
                     commitment to a monthly spend or frequency of use. No matter
                     how small or infrequent a user of courier and freight
                     services you are, you can still benefit from a relationship
-                    with London-East Transportation Services.
+                    with Minuteman Delivery Service.
                   </p>
                 </div>
               </div>
@@ -828,8 +828,8 @@ ul {
     color: black;
   }
   .collapse ul li .nav-link:hover {
-    color: #1eae98;
-    border-bottom: 1px solid #1eae98;
+    color: rgba(236, 31, 31, 0.808);
+    border-bottom: 1px solid rgba(236, 31, 31, 0.808);
   }
 
   .iconsClass {
@@ -918,7 +918,7 @@ ul {
     transform: translateX(-50%);
     width: 140px;
     height: 1px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title:after {
@@ -929,11 +929,11 @@ ul {
     transform: translateX(-50%);
     width: 45px;
     height: 3px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title span {
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .accordion-button {
@@ -1010,7 +1010,7 @@ ul {
     transform: translateX(-50%);
     width: 140px;
     height: 1px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title:after {
@@ -1021,11 +1021,11 @@ ul {
     transform: translateX(-50%);
     width: 45px;
     height: 3px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title span {
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .accordion-button {
@@ -1042,5 +1042,11 @@ ul {
   .accordion-body {
     margin-bottom: 2%;
   }
+}
+
+@media (min-width: 769px){
+.FaqMainDiv{
+    overflow-x: hidden;
+}
 }
 </style>

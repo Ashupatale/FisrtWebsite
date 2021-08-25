@@ -30,8 +30,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                   No matter where in the world you are looking to import from, 
+                 we will find you the right carrier and service to meet your need, and at discounted rates.
                   </p>
                 </div>
               </div>
@@ -46,8 +46,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                    Take advantage of our discounted rates with the leading carriers to deliver your documents, parcels or freight to 220 countries. 
+                    Our booking portal can also help you with your commercial invoicing
                   </p>
                 </div>
               </div>
@@ -62,8 +62,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                       Working with a leading Lloyds Broker, we have the ability to quote for goods in transit cover for your consignments, 
+                   either on a per consignment or annual basis.
                   </p>
                 </div>
               </div>
@@ -78,8 +78,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                                      Our simple-to-use tool links with ecommerce stores including Amazon, eBay, Magento, PrestaShop, Shopify and Woo Commerce automating the shipping process, saving you time and helping to get your parcels out of the door as quickly as possible. If you're using a different e-commerce solution, or another order management system, you can upload CSV files or use API integration.
+
                   </p>
                 </div>
               </div>
@@ -94,8 +94,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                                      Operating from a secure, modern warehouse, our local fulfilment partner offers storage solutions catering for pallets, cartons, boxes and individual items. You then send us the packing lists from your system(s) and we will pick, pack and dispatch your consignments using the most appropriate courier and service from our extensive network. We will also manage your inventory.
+
                   </p>
                 </div>
               </div>
@@ -110,8 +110,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                                     Through our carrier partners, we offer secure door-to-door next business day deliveries across the UK, with time delivery options also available.
+
                   </p>
                 </div>
               </div>
@@ -258,6 +258,17 @@ ul {
 
 .part-1 img {
   width: 300px;
+}
+.section-services .single-service
+{
+    min-height: 36rem;
+
+}
+
+@media (min-width: 993px) and (max-width: 1199px){
+  .section-services .single-service{
+    min-height: 41rem;
+  }
 }
 
 @media screen and (max-width: 400px) {

@@ -110,7 +110,7 @@ export default {
 }
 
 .btn {
-  background-color: #1eae98;
+  background-color: rgba(236, 31, 31, 0.808);
   padding: 20px;
   color: white;
   outline: none;
@@ -119,7 +119,7 @@ export default {
 }
 
 .btn:hover {
-  background-color: #21bb9f;
+  background-color: rgba(236, 31, 31, 0.808);
 }
 
 @media (max-width: 991px){
@@ -137,6 +137,11 @@ export default {
     display: block;
   }
 
+
+.collapse ul li .nav-link {
+  text-transform: uppercase;
+  color: rgba(236, 31, 31, 0.808);
+}
   .navbar {
     /* margin-top:10px; */
     padding: 2px;
@@ -158,8 +163,8 @@ export default {
     color: black;
   }
   .collapse ul li .nav-link:hover {
-    color: #1eae98;
-    border-bottom: 1px solid #1eae98;
+    color: rgba(236, 31, 31, 0.808);
+    border-bottom: 1px solid rgba(236, 31, 31, 0.808);
   }
 
   .iconsClass {
@@ -179,7 +184,7 @@ export default {
   }
 
   .btn {
-    background-color: #1eae98;
+    background-color: rgba(236, 31, 31, 0.808);
     padding: 20px;
     color: white;
     outline: none;
@@ -188,7 +193,7 @@ export default {
   }
 
   .btn:hover {
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 }
 

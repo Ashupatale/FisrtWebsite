@@ -69,8 +69,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                 No matter where in the world you are looking to import from, 
+                 we will find you the right carrier and service to meet your need, and at discounted rates.
                   </p>
                 </div>
               </div>
@@ -84,8 +84,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                    Take advantage of our discounted rates with the leading carriers to deliver your documents, parcels or freight to 220 countries. 
+                    Our booking portal can also help you with your commercial invoicing
                   </p>
                 </div>
               </div>
@@ -99,8 +99,8 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                   Working with a leading Lloyds Broker, we have the ability to quote for goods in transit cover for your consignments, 
+                   either on a per consignment or annual basis.
                   </p>
                 </div>
               </div>
@@ -114,8 +114,7 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                   Our simple-to-use tool links with ecommerce stores including Amazon, eBay, Magento, PrestaShop, Shopify and Woo Commerce automating the shipping process, saving you time and helping to get your parcels out of the door as quickly as possible. If you're using a different e-commerce solution, or another order management system, you can upload CSV files or use API integration.
                   </p>
                 </div>
               </div>
@@ -129,8 +128,7 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                   Operating from a secure, modern warehouse, our local fulfilment partner offers storage solutions catering for pallets, cartons, boxes and individual items. You then send us the packing lists from your system(s) and we will pick, pack and dispatch your consignments using the most appropriate courier and service from our extensive network. We will also manage your inventory.
                   </p>
                 </div>
               </div>
@@ -144,8 +142,7 @@
                 </div>
                 <div class="part-2">
                   <p class="description">
-                    Express delivery inno service effective logistics solution
-                    for delivery of small cargo delivery service.
+                   Through our carrier partners, we offer secure door-to-door next business day deliveries across the UK, with time delivery options also available.
                   </p>
                 </div>
               </div>
@@ -171,7 +168,7 @@
             </div>
 
             <p class="ContainerDes">
-              Minuteman Delivery has helped small to medium sized businesses
+              Minuteman Delivery  services has helped small to medium sized businesses
               send and receive documents, parcels and pallets around the UK and
               between Europe and the rest of the world at discounted rates. We
               provide these services in conjunction with familiar national and
@@ -179,7 +176,7 @@
               deliveries, while we provide a personalised customer service and
               the invoicing. Through our dedicated customer care and our
               discounted rates, we are now an established and highly recommended
-              choice for SMEs in Essex, Central and East London and beyond.
+              choice for SMEs.
             </p>
           </div>
         </div>
@@ -262,6 +259,13 @@ ul {
   background-color: white;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
   cursor: pointer;
+  min-height: 36rem;
+}
+
+@media (min-width: 993px) and (max-width: 1199px){
+  .section-services .single-service{
+    min-height: 41rem;
+  }
 }
 
 .section-services {
@@ -442,7 +446,7 @@ ul {
     transform: translateX(-50%);
     width: 140px;
     height: 1px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title:after {
@@ -453,11 +457,11 @@ ul {
     transform: translateX(-50%);
     width: 45px;
     height: 3px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title span {
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .description {
@@ -477,7 +481,7 @@ ul {
   .section-services .single-service .part-1 i {
     margin-bottom: 25px;
     font-size: 80px;
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .single-service .part-1 .title {
@@ -537,7 +541,7 @@ ul {
     transform: translateX(-50%);
     width: 140px;
     height: 1px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title:after {
@@ -548,11 +552,11 @@ ul {
     transform: translateX(-50%);
     width: 45px;
     height: 3px;
-    background-color: #21bb9f;
+    background-color:rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title span {
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .description {
@@ -572,7 +576,7 @@ ul {
   .section-services .single-service .part-1 i {
     margin-bottom: 25px;
     font-size: 80px;
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .single-service .part-1 .title {
@@ -622,6 +626,9 @@ ul {
     display: ;
 } */
 
+.collapse ul li .nav-link{
+  color:rgba(236, 31, 31, 0.808);
+}
   .navbar {
     /* margin-top:10px; */
     overflow: hidden;
@@ -642,7 +649,7 @@ ul {
     color: black;
   }
   .collapse ul li .nav-link:hover {
-    color: #1eae98;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .iconsClass {
@@ -663,7 +670,7 @@ ul {
   }
 
   .btn {
-    background-color: #1eae98;
+    background-color: rgba(236, 31, 31, 0.808);
     padding: 20px;
     color: white;
     outline: none;
@@ -672,7 +679,7 @@ ul {
   }
 
   .btn:hover {
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .ContainerDes {
@@ -752,11 +759,11 @@ ul {
     transform: translateX(-50%);
     width: 45px;
     height: 3px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title span {
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .description {
@@ -776,7 +783,7 @@ ul {
   .section-services .single-service .part-1 i {
     margin-bottom: 25px;
     font-size: 80px;
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .single-service .part-1 .title {
@@ -836,7 +843,7 @@ ul {
     transform: translateX(-50%);
     width: 140px;
     height: 1px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title:after {
@@ -847,11 +854,11 @@ ul {
     transform: translateX(-50%);
     width: 45px;
     height: 3px;
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .title span {
-    color: #21bb9f;
+    color: rgba(236, 31, 31, 0.808);
   }
 
   .section-services .header-section .description {
@@ -962,7 +969,7 @@ ul {
   }
 
   .btn:hover {
-    background-color: #21bb9f;
+    background-color: rgba(236, 31, 31, 0.808);
   }
 
   .ContainerDes {

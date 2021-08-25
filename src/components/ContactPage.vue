@@ -72,15 +72,13 @@
     </div>
 
     <iframe
-      class="gmap_iframe"
-      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9917.273961771954!2d0.177047!3d51.580726!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x805cb36d5d521ac4!2sLondon%20East%20Transportation%20Services%20Limited!5e0!3m2!1sen!2sin!4v1629552160014!5m2!1sen!2sin"
-      width="600"
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2488.2186166573897!2d-0.08338488480360452!3d51.417410625100736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876014584b62cd5%3A0x3cb1a0881f8908c7!2s84%20Church%20Rd%2C%20London%20SE19%202EZ%2C%20UK!5e0!3m2!1sen!2sin!4v1629869554258!5m2!1sen!2sin"
+      width="100%"
       height="450"
       style="border:0;"
       allowfullscreen=""
       loading="lazy"
-    >
-    </iframe>
+    ></iframe>
 
     <Footer />
   </div>
@@ -100,41 +98,40 @@ export default {
 </script>
 
 <style scoped>
-#services{
-    margin-bottom: 2.5rem !important;
+#services {
+  margin-bottom: 2.5rem !important;
 }
 
 .section-services .header-section .title {
   position: relative;
-  margin-bottom:0px;
+  margin-bottom: 0px;
   padding-bottom: 0px;
   text-transform: uppercase;
   font-weight: 700;
 }
 
-
-
-
-.section-services .card{
-    padding: 2rem 1rem;
-    margin: 1rem;
-    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
-    min-height: 19rem;
+.section-services .card {
+  padding: 2rem 1rem;
+  margin: 1rem;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  min-height: 19rem;
 }
 
-@media (max-width: 768px){
-    .section-services .card{
+.DivText{
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  .section-services .card {
     min-height: auto;
-    }
+  }
 
-    .section-services .card{
+  .section-services .card {
     padding: 2rem 1rem;
     margin: 1rem;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
     min-height: 19rem;
-}
-
-
+  }
 }
 
 /* @media (min-width: 769px) and (max-width: 1200px){
@@ -183,7 +180,7 @@ export default {
 }
 
 .DivText p {
-    font-weight: 700;
+  font-weight: 700;
 }
 
 .gmap_iframe {
@@ -308,7 +305,7 @@ export default {
 
   .DivText {
     /* padding: 0 25px; */
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .title {
@@ -316,20 +313,17 @@ export default {
   }
 }
 
-@media (min-width: 769px){
-.MainContactDiv{
+@media (min-width: 769px) {
+  .MainContactDiv {
     overflow-x: hidden;
-}
+  }
 
-.section-services .card{
+  .section-services .card {
     padding: 2rem 1rem;
     margin: 1rem;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
     min-height: 19rem;
-}
-
-
-
+  }
 }
 
 @media screen and (min-width: 401px) and (max-width: 550px) {

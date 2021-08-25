@@ -19,7 +19,7 @@
             </div>
 
             <p class="ContainerDes">
-              Minuteman Delivery has helped small to medium sized businesses
+              Minuteman Delivery Services has helped small to medium sized businesses
               send and receive documents, parcels and pallets around the UK and
               between Europe and the rest of the world at discounted rates. We
               provide these services in conjunction with familiar national and
