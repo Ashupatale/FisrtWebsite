@@ -27,7 +27,7 @@
               deliveries, while we provide a personalised customer service and
               the invoicing. Through our dedicated customer care and our
               discounted rates, we are now an established and highly recommended
-              choice for SMEs in Essex, Central and minuteman delivery and beyond.
+              choice for SMEs.
             </p>
           </div>
         </div>
