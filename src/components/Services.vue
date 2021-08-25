@@ -271,6 +271,12 @@ ul {
 }
 }
 
+@media (max-width: 768px){
+  .section-services .single-service{
+    min-height: auto;
+  }
+} 
+
 @media (min-width: 993px) and (max-width: 1199px){
   .section-services .single-service{
     min-height: 41rem;
